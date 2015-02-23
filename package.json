@@ -1,0 +1,14 @@
+{
+  "name": "ractive-swig",
+  "version": "1.0.0",
+  "description": "swig extension and tag to include Ractive template into a swig template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "dependencies": {
+    "ractive": "^0.6.1"
+  }
+}
