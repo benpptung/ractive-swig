@@ -9,6 +9,6 @@
   "author": "Ben P.P. Tung",
   "license": "MIT",
   "dependencies": {
-    "ractive": "^0.6.1"
+    "ractive": "^0.7.1"
   }
 }
